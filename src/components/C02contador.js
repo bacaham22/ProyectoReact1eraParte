@@ -1,4 +1,4 @@
-import React from 'react'   //rafce
+/*import React from 'react'   //rafce
 
 const c02contador = () => {
     return (
@@ -10,3 +10,4 @@ const c02contador = () => {
 }
 
 export default c02contador
+*/
