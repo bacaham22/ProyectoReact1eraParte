@@ -3,6 +3,10 @@ import MenuNav from './sitioweb/MenuNav';
 import Heder from './sitioweb/Heder';
 import CardTarjeta from './sitioweb/CardTarjeta';
 import Aside from './sitioweb/Aside';
+import VideoPeli from './sitioweb/VideoPeli';
+import PiePag from './sitioweb/PiePag';
+import MapaUbic from './sitioweb/MapaUbic';
+
 
 function App() {
   return (
@@ -22,14 +26,22 @@ function App() {
           <article className="col-md-3 bg-secondary"> 
               <CardTarjeta/>
           </article>
-          <article className="col-md-3 bg-primary">
+          <aside className="col-md-3 bg-primary">
               <Aside/>
-          </article>
+          </aside>
       </section>
+    <section className="row bg-dark text-light">
+          <article className="col-md-5 justify-content-center bg-success"> 
+              <MapaUbic/>
+          </article>
+          <article className="col-md-7  d-flex justify-content-center bg-secondary "> 
+              <VideoPeli/>
+          </article>
+    </section>  
+    <footer className="row bg-dark d-flex justify-content-center align-items-center text-light bg-dark">
+          <PiePag/>
+    </footer>
 
-      <footer className="row bg-dark text-light ps-5">
-        footer
-      </footer>
 </div>
   );
 }
