@@ -10,14 +10,14 @@ const Carrusel = () => {
                     </div>
                     <div className="carousel-inner">
                       <div className="carousel-item active">
-                      <img src="https://i.ibb.co/Hh1JKMD/galeria1.jpg" className="d-block w-100" alt="..."/>
+                      <img src="https://www.educaciontrespuntocero.com/wp-content/uploads/2021/05/confident-teacher-explaining-lesson-to-pupils-978x652.jpg" className="d-block w-100" alt="..."/>
                       <div className="carousel-caption d-none d-md-block">
-                        <h5>First slide label</h5>
-                        <p>Some representative placeholder content for the first slide.</p>
+                        <h5>SERVICIO</h5>
+                        <p>SERVICIO TECNICO ESPECIALIZADO EN COMPUTADORAS LAPTOPS Y DE MESA SIN IMPORTART LA MARCA PORIXIMAMENTE OFRECEMOS SERVICIOS DE ELECTRONICA COMO : DOMOTICA, AUTOMATIZACION , ETC.</p>
                       </div>
                       </div>
                       <div className="carousel-item">
-                      <img src="https://i.ibb.co/SRmr87h/galeria2.jpg" className="d-block w-100" alt="..."/>
+                      <img src="https://i.ibb.co/gZZ9YTx/unnamed.jpg" className="d-block w-100" alt="..."/>
                       <div className="carousel-caption d-none d-md-block">
                         <h5>Second slide label</h5>
                         <p>Some representative placeholder content for the second slide.</p>

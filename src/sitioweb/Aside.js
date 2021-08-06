@@ -110,7 +110,7 @@ const Aside = () => {
 </div>
 </div>
 <hr/>
-<p className="text-white ">Es este apartado se está considerado algunos tipos de botones y sus funcionalidades...</p>
+<p className="text-white ">Envianos un mensaje</p>
         </div>
     )
 }
